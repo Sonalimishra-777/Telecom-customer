@@ -1,7 +1,7 @@
 # ChurnSense: Smarter Telecom Retention
 >"Analyzing Customer Attrition in Telecom Services."
 
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*uScC9YN6GIXG1agVI0XFpA.png" width="600" />
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*uScC9YN6GIXG1agVI0XFpA.png" width="700" />
 
 <h2>🎯 Background</h2>
 
@@ -40,7 +40,7 @@ By analyzing the behavior of over 7,000 customers across demographics, services,
 • Recommendations based on churn drivers<br>
 
 <hr>
-<img src="https://github.com/Sonalimishra-777/Pizza/blob/main/Pizza_Dashboard.png?raw=true" alt="Pizza Dashboard" width="800">
+<img src="https://github.com/Sonalimishra-777/Telecom-customer/blob/main/Customer_churn.png?raw=true" alt="Pizza Dashboard" width="1000">
 <hr>
 <h2>🔍 Key Findings</h2>
 
@@ -56,7 +56,7 @@ By analyzing the behavior of over 7,000 customers across demographics, services,
 
 <h2>📋 Suggestions for Client</h2>
 
-• • Enhance Fiber Optic service quality, as it correlates with the highest churn risk.<br>
+• Enhance Fiber Optic service quality, as it correlates with the highest churn risk.<br>
 • Focus on top churn cities with local campaigns and service improvements.<br>
 • Offer bundled streaming packages to customers with heavy entertainment usage.<br>
 • Promote Unlimited Data Plans aggressively to improve retention rates.<br>
