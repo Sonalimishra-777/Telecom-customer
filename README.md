@@ -40,7 +40,7 @@ By analyzing the behavior of over 7,000 customers across demographics, services,
 • Recommendations based on churn drivers<br>
 
 <hr>
-<img src="https://github.com/Sonalimishra-777/Telecom-customer/blob/main/Customer_churn.png?raw=true" alt="Pizza Dashboard" width="1000">
+<img src="https://github.com/Sonalimishra-777/Telecom-customer/blob/main/Customer_churn.png?raw=true" alt="Telecom Customer Churn" width="1000">
 <hr>
 <h2>🔍 Key Findings</h2>
 
